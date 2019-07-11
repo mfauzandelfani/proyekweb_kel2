@@ -30,6 +30,12 @@ Aturan rapat :
 -aktif,kreatif,produktif
 -tanggapan,kritik,saran diterima
 
+Ralat :
+-Pertemuan di mulai dari besok sampai demo (setiap hari pertemuan)
+-bawa makanan dan minuman banyak-banyak
+-bawa uang berlebih
+-jangan ngeluh-ngeluh(profesional)
+
 Salam Hangat :)
 
 permintaan:
