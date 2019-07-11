@@ -1,5 +1,6 @@
 # proyekweb_kel2
 latihan github
+<<<<<<< HEAD
 
 Judul Project kel2
 Website Restoran steak
@@ -22,3 +23,5 @@ Salam Hangat :)
 
 
 
+=======
+>>>>>>> ff37e3c1b88d28ade22a2fa953723066ff4e8c2d
