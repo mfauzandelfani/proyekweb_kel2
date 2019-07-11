@@ -32,6 +32,9 @@ Aturan rapat :
 
 Salam Hangat :)
 
+permintaan:
+jika ada temen yang kurang paham mohom untuk di bantu bukan di push untuk membuat nya cepat
+dan jika ada tugas yang ingin dikerjakan lagi mohon di beritahukan secepatnya jangan h-jam ok
 
 
 =======
