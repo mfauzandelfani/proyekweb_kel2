@@ -13,6 +13,12 @@ Rapat 1:
 Jumat 12 juli 2019 pukul 13.00 
 aturan boleh telat!!!!
 
+Aturan rapat :
+-Pertemuan seminggu 5 kali (online atau offline)
+-aktif,kreatif,produktif
+-tanggapan,kritik,saran diterima
+
+Salam Hangat :)
 
 
 
